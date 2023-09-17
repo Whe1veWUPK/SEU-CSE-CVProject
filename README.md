@@ -10,3 +10,7 @@ Followings are the tasks' description.
 
 ![Alt text](image.png)
 ![Alt text](image-1.png)
+
+
+
+For each part, you may need to change the path of the dataset.
