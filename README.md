@@ -1,5 +1,5 @@
 # SEU-CSE-CVProject
-This project is the SEU(SouthEast University) CSE(Computer Science and Engineering)'s  Computer Vistion Class's final Course lab.
+This project is the SEU(SouthEast University) CSE(Computer Science and Engineering)'s  Computer Vision Class's final Course lab.
 
 
 The course lab include three parts, and in summer school, we only need to do first two parts.
