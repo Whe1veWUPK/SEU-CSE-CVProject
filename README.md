@@ -29,7 +29,8 @@ This script is used to use the data to train the downloaded model and save the t
 The two scripts are used to test the accuracy of the trained model by Trainset and the Testset. 
 
 
-#Instructions for use
+
+##Instructions for use
 * First you need to get data's paths by ***GetPhotoPaths***, and then you can run the ***TrainModel*** to get the trained model(this script includes downloading the model and modify its parameters). Finally,you can run the two test scripts to get the accuracy of your trained model.
 
 
