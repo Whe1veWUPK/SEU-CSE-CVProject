@@ -4,8 +4,7 @@ This project is the SEU(SouthEast University) CSE(Computer Science and Engineeri
 
 The course lab include three parts, and in summer school, we only need to do first two parts.
 
-And the first part is made by Hanlong Liu, and the second part is made by me.
-
+And this project only includes the part2.
 Followings are the tasks' description.
 
 ![Alt text](image.png)
